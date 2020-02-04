@@ -1,0 +1,36 @@
+h1 {
+    font-family: fantasy;
+    border-bottom-style: double;
+    border-bottom-width: 10px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+div.img_containter img {
+    width: 100%;
+}
+
+
+p {
+    font-family: sans-serif;
+}
+
+p.section2 {
+    font-family: monospace;
+}
+
+p#teaser {
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 15px;
+}
